@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "51a570c2ba31b0ac1392d436",
+  "owner": "ybepvqmnk",
+  "repo": "page-07ed9f9810b792414e97d70d",
+  "title": "Miaoix",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "07ed9f9810b792414e97d70d",
+      "a": "Miaoix",
+      "b": "",
+      "entity": "Miaoix",
+      "brand": "Miaoix",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ca33ce3f7d1f4e1c15f5aca3f817488ffb1e4ad67388131b64cd4c51cff65fbd",
+      "content": {
+        "keyword1": "Miaoix",
+        "keyword2": "",
+        "primary_entity": "Miaoix",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Miaoix 提供多种流量套餐，支持多人在线和流媒体解锁。",
+          "AI_DESCRIPTION": "Miaoix 提供多种流量套餐，支持多人在线和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        body {margin: 0;padding: 0;font-family: system-ui, -apple-system, sans-serif;background: #000;color: #fff;line-height: 1.5}\n        nav {position: fixed;top: 0;left: 0;right: 0;background: rgba(0,0,0,0.9);z-index: 100;padding: 15px 20px;display: flex;justify-content: center;gap: 30px;border-bottom: 1px solid #00ff9d}\n        nav a {color: #00ff9d;text-decoration: none;font-weight: 600;font-size: 1rem;transition: opacity 0.3s}\n        nav a:hover {opacity: 0.7}\n        .hero {display: flex;height: 100vh;min-height: 600px;background: #000;position: relative}\n        .hero-left {width: 28%;padding: 40px 30px;display: flex;flex-direction: column;justify-content: center;align-items: flex-start;z-index: 10}\n        .hero-right {width: 72%;background: linear-gradient(135deg, #000, #00ff9d);display: flex;align-items: center;justify-content: center;z-index: 5;color: #000}\n        h1 {font-size: 4.2rem;font-weight: 700;margin: 0 0 15px 0;letter-spacing: -2px;line-height: 1.1}\n        .hero-left p {font-size: 1.35rem;margin: 0 0 25px 0;opacity: 0.9}\n        .cta {padding: 16px 42px;background: #00ff9d;color: #000;border: none;font-size: 1.15rem;font-weight: 600;border-radius: 12px;cursor: pointer;transition: all 0.3s;text-decoration: none;display: inline-block}\n        .cta:hover {transform: translateY(-3px);box-shadow: 0 10px 25px rgba(0,255,157,0.4)}\n        .plans {padding: 100px 20px;background: #111;max-width: 1400px;margin: 0 auto}\n        .plans h2 {text-align: center;color: #00ff9d;font-size: 2.1rem;margin-bottom: 50px}\n        table {width: 100%;border-collapse: collapse;background: #1a1a1a;border-radius: 24px;overflow: hidden;box-shadow: 0 15px 40px rgba(0, 255, 157, 0.15)}\n        th {background: #00ff9d;color: #000;padding: 24px 18px;font-size: 1.05rem;font-weight: 600;text-align: center}\n        td {padding: 22px 18px;text-align: center;border-top: 1px solid #333}\n        tr:nth-child(even) {background: #222}\n        .recommended {background: #00ff9d;color: #000;font-weight: 700}\n        .faq {padding: 100px 20px;background: #000}\n        .faq h2 {text-align: center;color: #00ff9d;font-size: 2.1rem;margin-bottom: 50px}\n        .faq-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));gap: 25px;max-width: 1200px;margin: 0 auto}\n        .faq-item {background: #1a1a1a;border-radius: 20px;padding: 28px;box-shadow: 0 10px 30px rgba(0,0,0,0.6)}\n        .faq-question {font-size: 1.25rem;font-weight: 600;margin-bottom: 14px;color: #00ff9d}\n        .faq-answer {font-size: 1.05rem;opacity: 0.9}\n        footer {background: #000;padding: 40px 20px;text-align: center;color: #666;font-size: 0.95rem}\n        @media (max-width: 768px) {\n            .hero {flex-direction: column;height: auto}\n            .hero-left {width: 100%;padding: 60px 20px}\n            .hero-right {width: 100%;min-height: 380px}\n            h1 {font-size: 3.8rem}\n            nav {flex-wrap: wrap;justify-content: center}\n        }\n    </style><nav>\n        <a href=\"#plans\">套餐</a>\n        <a href=\"#faq\">FAQ</a>\n    </nav>\n    <section class=\"hero\">\n        <div class=\"hero-left\">\n            <h1>Miaoix</h1>\n            <p>流量无限</p>\n            <p>安全连接</p>\n            <a href=\"#plans\" class=\"cta\">选择套餐</a>\n        </div>\n        <div class=\"hero-right\">\n            <div>\n                <p>每月流量包</p>\n                <p>多人在线</p>\n            </div>\n        </div>\n    </section>\n    <section id=\"plans\" class=\"plans\">\n        <h2>选择适合您的流量方案</h2>\n        <table>\n            <thead>\n                <tr>\n                    <th>方案</th>\n                    <th>月付</th>\n                    <th>年付</th>\n                    <th>流量</th>\n                    <th>设备</th>\n                    <th>特色</th>\n                </tr>\n            </thead>\n            <tbody>\n                <tr>\n                    <td><strong>基础版</strong></td>\n                    <td>¥15/月</td>\n                    <td>¥150/年</td>\n                    <td>100GB</td>\n                    <td>3台</td>\n                    <td>基础流媒体解锁</td>\n                </tr>\n                <tr>\n                    <td><strong>旗舰版</strong><span class=\"recommended\">推荐</span></td>\n                    <td>¥35/月</td>\n                    <td>¥350/年</td>\n                    <td>300GB</td>\n                    <td>5台</td>\n                    <td>全节点解锁 + 游戏加速</td>\n                </tr>\n                <tr>\n                    <td><strong>团队版</strong></td>\n                    <td>¥85/月</td>\n                    <td>¥850/年</td>\n                    <td>1000GB</td>\n                    <td>20台</td>\n                    <td>VIP节点 + 企业定制</td>\n                </tr>\n            </tbody>\n        </table>\n    </section>\n    <section id=\"faq\" class=\"faq\">\n        <h2>常见问题</h2>\n        <div class=\"faq-grid\">\n            <div class=\"faq-item\">\n                <div class=\"faq-question\">如何获取流量？</div>\n                <div class=\"faq-answer\">选择方案后立即支付，流量立即生效。</div>\n            </div>\n            <div class=\"faq-item\">\n                <div class=\"faq-question\">支持多少设备？</div>\n                <div class=\"faq-answer\">基础版3台，旗舰版5台，团队版20台。</div>\n            </div>\n            <div class=\"faq-item\">\n                <div class=\"faq-question\">能解锁流媒体吗？</div>\n                <div class=\"faq-answer\">基础版支持普通流媒体，旗舰版支持全节点解锁。</div>\n            </div>\n            <div class=\"faq-item\">\n                <div class=\"faq-question\">节点质量如何？</div>\n                <div class=\"faq-answer\">所有方案提供高速节点，旗舰版有游戏加速优化。</div>\n            </div>\n        </div>\n    </section>\n    <footer>\n        Miaoix © 2024 | 隐私优先 • 流量无限\n    </footer></main>",
+          "hash": "5b6974f2e1b5358f19da9a2d49abca71f3e94c44828b3ab0706d0cdc80093719",
+          "seo": {
+            "title": "Miaoix - 高速流量 VPN",
+            "keywords": "Miaoix, 流量, VPN, 高速, 隐私",
+            "description": "Miaoix 提供多种流量套餐，支持多人在线和流媒体解锁。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "110",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jinggaocelue.cn",
+    "host": "p-30338bc45a.jinggaocelue.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a5bb98fb4d490758b037c720fb70ec10af5daf342e4a64b4da6ce34eaabc7228",
+    "sitemap.xml": "ad6f87e826f60700f2df33a0e67b66ec6c826b9dfef2ab12470bc070ffe102ac",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "67024be260c3a281c6383f3ac78dbf290a00a462b2e124d1baef01dfb9730768",
+    "robots.txt": "2112940ac77b6586381d79e6358921eb0c8ea9f198875e6100bee2e104ae71a6",
+    "20aa6c30eb334383c0f737a963216095.txt": "11d863da1440fb1f1b0ef6c1a8b9fbd84313560924f04ab3d09fa3214ec316a9"
+  },
+  "revision": "d6a869503783d22c4aad5ae99c64ba3ec22c6837b7901adacf8d1ca9c3f73313"
+}
